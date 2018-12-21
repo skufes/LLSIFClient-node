@@ -1,0 +1,23 @@
+{
+    "api_uri": {
+        "/duty/privateStartWait": "http://prod-2-jp.lovelive.ge.klabgames.net/main.php/duty/privateStartWait",
+        "/duty/startWait": "http://prod-2-jp.lovelive.ge.klabgames.net/main.php/duty/startWait",
+        "/duty/endWait": "http://prod-2-jp.lovelive.ge.klabgames.net/main.php/duty/endWait",
+        "/battle/startWait": "http://prod-2-jp.lovelive.ge.klabgames.net/main.php/battle/startWait",
+        "/battle/endWait": "http://prod-2-jp.lovelive.ge.klabgames.net/main.php/battle/endWait"
+    },
+    "domain": "http://prod-jp.lovelive.ge.klabgames.net",
+    "application_id": "626776655",
+    "name": "server_information",
+    "end_point": "/main.php",
+    "region": "392",
+    "max_connection": 10,
+    "locked_user_uri": "http://prod-jp.lovelive.ge.klabgames.net/webview.php/static/index?id=13",
+    "application_key": "gae1aefu9eeRojahj4cei3pho1eaZada",
+    "login_news_uri": "http://prod-jp.lovelive.ge.klabgames.net/webview.php/announce/index?0=",
+    "date": "1500390000",
+    "maintenance_uri": "http://prod-jp.lovelive.ge.klabgames.net/resources/maintenace/maintenance.php",
+    "consumer_key": "lovelive_test",
+    "server_version": "25.0"
+}
+

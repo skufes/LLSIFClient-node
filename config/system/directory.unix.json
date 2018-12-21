@@ -1,0 +1,19 @@
+{
+    "dep": "./dep",
+    "bin": {
+        "7z": "7z",
+        "wget": "wget",
+        "aria2c": "aria2c"
+    },
+    "temp": "/tmp/LLSIFClient-node",
+    "runtime": {
+        "database": "./runtime/database",
+        "resource": "./runtime/resource",
+        "external": "./runtime/external"
+    },
+    "script": {
+        "decode": "python3 ./dep/decode.py",
+        "refreshdb": "python3 ./dep/dbrefresh.py"
+    }
+}
+

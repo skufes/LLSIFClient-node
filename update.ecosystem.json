@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "name": "skufes-check-update",
+        "script": "./src/scripts/check_update_schedule.js",
+        "watch": false,
+        "cron_restart": "1 * * * *"
+    }]
+}

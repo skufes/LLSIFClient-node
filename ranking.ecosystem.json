@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "name": "skufes-check-rankings",
+        "script": "./src/scripts/check_rankings_schedule.js",
+        "watch": false,
+        "cron_restart": "5 * * * *"
+    }]
+}

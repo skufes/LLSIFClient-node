@@ -1,0 +1,19 @@
+{
+    "dep": ".\\dep",
+    "bin": {
+        "7z": ".\\dep\\7za.exe",
+        "wget": ".\\dep\\wget64.exe",
+        "aria2c": ".\\dep\\aria2c.exe"
+    },
+    "temp": ".\\temp\\",
+    "runtime": {
+        "database": ".\\runtime\\database",
+        "resource": ".\\runtime\\resource",
+        "external": ".\\runtime\\external"
+    },
+    "script": {
+        "decode": "python .\\dep\\decode.py",
+        "refreshdb": "python .\\dep\\dbrefresh.py"
+    }
+}
+

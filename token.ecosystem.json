@@ -1,0 +1,9 @@
+{
+    "apps": [{
+        "name": "skufes-get-token",
+        "script": "./src/scripts/get_token.js",
+        "watch": false,
+        "cron_restart": "*/10 * * * *",
+	"autorestart": false
+    }]
+}

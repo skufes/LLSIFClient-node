@@ -1,0 +1,9 @@
+{
+    "personal_term": 1,
+    "limit": 30,
+    "live_ranking_limit": 10,
+    "view_limit": 10,
+    "max_list_page": 3,
+    "max_sv_page": 8
+}
+
